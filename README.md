@@ -1,2 +1,2 @@
-# Data-Partitioning
-This repository contains codes from Distributed ans parallel Database Systems class
+
+This repository contains codes from Distributed and parallel Database Systems class
